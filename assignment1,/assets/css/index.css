@@ -1,0 +1,173 @@
+@media screen and (max-width: 980px) {
+	* {
+ 	 box-sizing: border-box;
+	}
+}
+@media screen and (max-width: 768px) {
+	#connectwithme {
+	float: right;
+	background: white;
+	width: 250px;
+	height: 200px;
+	bottom: 322px;
+	text-align: center;
+	font-style: georgia;
+	font-weight: bold;
+	color: #4aaaa5;
+	margin-right: 28%;
+	margin-bottom: 5px;
+	}
+	#gcat {
+		height: 77px;
+		width: 77px;
+		float: left;
+		margin-top: 29%
+	}
+	#stackoverflow {
+		height: 69px;
+		width: 69px;
+		float: right;
+		margin-top: 21%
+	}
+	#linkedin {
+		height: 69px;
+		width: 69px;
+		float: center;
+		margin-top: 20%
+}
+
+}
+@media screen and (max-width: 640px) {
+#contact {
+	float: right;
+	font-size: 15px;
+	background-color: #ffffff;
+	color: #669999;
+	padding: 5px;
+	margin-right: 31.3%;
+	margin-top: 75px;
+	}
+	header {
+	position: static;	
+	float: left;
+	font-size: 25px; 
+	font-weight: bold;
+	font-style: Georgia;
+	background-color: #4aaaa5;
+	color: white;	
+	padding: 20px;
+	margin-left: 120px;
+	margin-top: 75px;
+}
+
+
+body {
+	font-size: 20px;
+	line-height: 28px;
+	color: #000;
+}
+header {
+	float: left;
+	font-size: 25px; 
+	font-weight: bold;
+	font-style: Georgia;
+	background-color: #4aaaa5;
+	color: white;	
+	padding: 20px;
+	margin-left: 120px;
+	margin-top: 75px;
+}
+
+#portfolio {
+	float: right;
+	font-size: 15px;
+	background-color: #ffffff;
+	color: #669999;
+	padding: 5px;
+	margin-top: 75px;
+}
+#about {
+	float: right;
+	font-size: 15px;
+	background-color: #ffffff;
+	color: #669999;
+	padding: 5px;
+	margin-top: 75px;
+}
+#greybox {
+	width: 100%;
+	padding-bottom: 119px;
+	background: url(http://i.imgur.com/9xlg3aJ.png);
+	color:  #e6e6e6;
+	clear: both;
+}
+#whitebox{
+	width: 600px;
+	height: 399px;
+	margin-left: 120px;
+	background: white;
+	padding;
+}
+#aboutmetitle {
+	padding: 2px;
+	font-size: 28px;
+	margin-left: 130px;
+	font-style: Georgia;
+	color: #4aaaa5;
+	font-style: bold;
+	left: 2px;
+}
+#tpic {
+	position: relative; 
+	float: left;
+}
+
+#info {
+	margin-left: 15px;
+	overflow: auto;
+	width: 400px;
+	right: 1px;
+	color: #777777;
+	left: 10px;
+	position: relative;
+}
+#tealfooter{
+	background-color: #4aaaa5;
+	color: #4aaaa5;
+	width: 100%;
+	height: 10px;
+	background: 4aaaa5 ;
+	float: bottom;
+
+}
+#footer {
+	font-size: 15px;
+	text-align: center;
+	float: bottom;
+	clear:both;
+	background-color: #595959;
+	color: #e6e6e6;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#contact-title {
+	padding: 15px;
+	font-size: 28px;
+	font-style: Georgia;
+	color: #4aaaa5;
+	font-style: bold;
+	left: 2px;
+}
+#portfolio-title {
+	padding: 15px;
+	font-size: 28px;
+	font-style: Georgia;
+	color: #4aaaa5;
+	font-style: bold;
+	float: top;
+}
+
+#name, #email, #message {
+	color: black;
+	}
